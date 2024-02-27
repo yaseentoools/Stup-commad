@@ -1,0 +1,96 @@
+file create commad.
+pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests
+rm -rf Alone1
+git clone https://github.com/zeshanhashir/Alone1
+cd Alone1
+python Alone.py
+
+rm -rf Hannan-404
+git clone https://github.com/Hannan-404/FILE
+cd FILE
+python FILE.py
+
+File Create.
+cd -- && rm -rf FILE
+git clone --depth=1 https://github.com/VENOM-786/FILE
+cd FILE
+python FILE.py
+
+
+sim data 
+rm -rf sim-data
+git clone https://github.com/syedzada1100/sim-data.git
+cd sim-data
+python data.py
+
+
+pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests
+
+rm -rf Matro 
+
+git clone https://github.com/Sapeedo/Matro.git
+
+cd Matro
+
+python waqas.py
+
+
+setup Commad.
+apt update
+apt upgrade
+apt install python
+apt install git
+apt install bs4
+apt install requests
+apt install mechanize
+apt install pip
+apt install pip2
+
+pkg update
+pkg upgrade
+pkg install python
+pkg install git
+pip install requests
+pip install mechanize
+pip install bs4 futures
+pip install rich
+termux-setup-storage
+pip install pycurl
+rm -rf Alone1
+git clone https://github.com/zeshanhashir/Alone1
+cd Alone1
+python Alone.py
+
+
+termux-setup-storage
+pkg update -y
+pkg upgrade -y
+pkg install git -y
+pkg install python -y
+pkg install python2 -y
+python3 -m pip install --upgrade pip
+pip install requests
+pip install mechanize
+pip install future
+pip install rich
+pip install bs4
+
+pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests
+rm -rf FB-DEVIL
+git clone https://github.com/ZOMBIE-404/FB-DEVIL.git
+
+cd FB-DEVIL
+
+python FB-DEVIL.py
+
+
+instgram commad
+pip install rich
+termux-setup-storage
+pip install pycurl
+rm -rf Instagram
+git clone https://github.com/YounisXyz/Instagram
+cd Instagram
+python Insta.py
+
+
